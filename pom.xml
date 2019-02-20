@@ -1,0 +1,7 @@
+<Project>
+	<modelversion>4.0</modelversion>
+	<groupid>class1</groupid>
+	<artifactid>class1</artifactid>
+	<version>1</version>
+	<packaging>jar</packaging>
+</project>
